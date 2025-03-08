@@ -1,0 +1,11 @@
+{
+  "name": "sorting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bubble-sort.js",
+  "scripts": {
+    "test": "index.html"
+  },
+  "author": "",
+  "license": "ISC"
+}
